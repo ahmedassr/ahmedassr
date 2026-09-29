@@ -7,10 +7,10 @@ I’m a Software Developer with 4+ years of experience in mobile app development
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-alassar-840528259/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="28" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/AhmedAlAssar360">
     <img src="https://cdn.simpleicons.org/x/white" width="28" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/ahmed.alassr/">
     <img src="https://skillicons.dev/icons?i=instagram" width="28" />
   </a>&nbsp;&nbsp;
