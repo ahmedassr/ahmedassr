@@ -5,15 +5,21 @@ I’m a Software Developer with 4+ years of experience in mobile app development
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-alassar-840528259/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/AhmedAlAssar360">X</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/ahmed.alassr/">Instagram</a>
-  &nbsp;·&nbsp;
-  <a href="https://stackoverflow.com/users/14962022/ahmed-al-assar">Stack Overflow</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:ahmedassr360@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/ahmed-alassar-840528259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/AhmedAlAssar360">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ahmed.alassr/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/14962022/ahmed-al-assar">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="mailto:ahmedassr360@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 
