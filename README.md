@@ -5,6 +5,7 @@ I’m a Software Developer with 4+ years of experience in mobile app development
 ### 🌐 Connect with me
 
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-alassar-840528259/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="28" />
