@@ -5,30 +5,15 @@ I’m a Software Developer with 4+ years of experience in mobile app development
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-alassar-840528259/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" alt="LinkedIn"/>
-    <b> LinkedIn</b>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://x.com/AhmedAlAssar360">
-    <img src="https://cdn.simpleicons.org/x/000000" width="20" height="20" alt="X"/>
-    <b> X</b>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.instagram.com/ahmed.alassr/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" height="20" alt="Instagram"/>
-    <b> Instagram</b>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://stackoverflow.com/users/14962022/ahmed-al-assar">
-    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="20" height="20" alt="Stack Overflow"/>
-    <b> Stack Overflow</b>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="mailto:ahmedassr360@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Email"/>
-    <b> Email</b>
-  </a>
+  <a href="https://www.linkedin.com/in/ahmed-alassar-840528259/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/AhmedAlAssar360">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/ahmed.alassr/">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="https://stackoverflow.com/users/14962022/ahmed-al-assar">Stack Overflow</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:ahmedassr360@gmail.com">Email</a>
 </p>
 
 
