@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m a Software Developer with 4+ years of experience in mobile app development, mainly with Flutter.<br>Most of my work has been around building and improving mobile applications for Android and iOS — from implementing new features and integrating APIs to working with the team on UI/UX decisions and turning ideas into working products.<br>Recently, I’ve been going deeper into Backend Engineering with C# and .NET. I’m particularly interested in understanding what happens behind the API — networking, operating systems, databases, concurrency, and how backend systems are designed to work reliably at scale.<br>I also have a background in Low-Code platforms, with hands-on experience in Pega and current work with AgilePoint NX.<br>I’m currently pursuing a Bachelor’s degree in Computer Science at Al-Aqsa University, while continuing to build my experience across mobile and backend development.
 
 
